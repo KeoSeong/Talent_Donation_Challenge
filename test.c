@@ -8,6 +8,7 @@ int main(void)
 	int number1 = 0;
 	printf ("hello git!\n");
 	printf ("first modify\n");
+	printf ("why without scarlet doing noting?\n");
 	number0 = scarlet(3);
 	number1 = lewis(3,5);
 	printf ("%d %d\n", number0, number1);
